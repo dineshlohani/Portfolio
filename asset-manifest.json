@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.e441ea0b.css",
+    "main.js": "/Portfolio/static/js/main.d7c0b509.js",
+    "static/js/787.43ec53fe.chunk.js": "/Portfolio/static/js/787.43ec53fe.chunk.js",
+    "static/media/photo.jpg": "/Portfolio/static/media/photo.bc6ecf39dfb5e44e08aa.jpg",
+    "static/media/dinesh.png": "/Portfolio/static/media/dinesh.e8e022ede062372da1e3.png",
+    "static/media/graphic.jpg": "/Portfolio/static/media/graphic.77805a678601cb0c3e7e.jpg",
+    "static/media/developer.jpg": "/Portfolio/static/media/developer.540170e5fb56e33577f5.jpg",
+    "static/media/consulting.jpeg": "/Portfolio/static/media/consulting.02b3cdf99ac191ba903d.jpeg",
+    "static/media/sun-photo.jpg": "/Portfolio/static/media/sun-photo.c966fce4f37a5b845f79.jpg",
+    "static/media/network.jpg": "/Portfolio/static/media/network.d0104e2d63c08e17d5b8.jpg",
+    "static/media/content.webp": "/Portfolio/static/media/content.d5516381fa8242f2e687.webp",
+    "static/media/award.png": "/Portfolio/static/media/award.a796a64fbb78cc3a9666.png",
+    "static/media/address.png": "/Portfolio/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/Portfolio/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/sun.png": "/Portfolio/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/phone.png": "/Portfolio/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/moon.png": "/Portfolio/static/media/moon.3bea3d398a25611d421b.png",
+    "index.html": "/Portfolio/index.html",
+    "main.e441ea0b.css.map": "/Portfolio/static/css/main.e441ea0b.css.map",
+    "main.d7c0b509.js.map": "/Portfolio/static/js/main.d7c0b509.js.map",
+    "787.43ec53fe.chunk.js.map": "/Portfolio/static/js/787.43ec53fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e441ea0b.css",
+    "static/js/main.d7c0b509.js"
+  ]
+}
